@@ -1,0 +1,1446 @@
+[2025-08-15 16:40:57] Starting tracker run
+Tabs to process: ['Bhandup', 'Mahim', 'Wadgaon', 'Shukrawar Peth', 'Kothrud']
+[Bhandup] Logged 18 rows to column 10.
+[Mahim] Logged 18 rows to column 10.
+[Wadgaon] Logged 18 rows to column 10.
+[Shukrawar Peth] Logged 18 rows to column 10.
+[Kothrud] Logged 30 rows to column 10.
+STDERR:
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000001EAE9A467A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+[2025-08-15 16:40:57] Run finished with exit code 0
+[2025-08-15 17:00:05] Starting tracker run
+Tabs to process: ['Bhandup', 'Mahim', 'Wadgaon', 'Shukrawar Peth', 'Kothrud']
+[Bhandup] Logged 18 rows to column 11.
+[Mahim] Logged 18 rows to column 11.
+[Wadgaon] Logged 18 rows to column 11.
+[Shukrawar Peth] Logged 18 rows to column 11.
+[Kothrud] Logged 30 rows to column 11.
+STDERR:
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored in: <function Chrome.__del__ at 0x000002524FA627A0>
+Traceback (most recent call last):
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\Om Ambre\Downloads\pos_tracker\.venv\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+[2025-08-15 17:00:05] Run finished with exit code 0
