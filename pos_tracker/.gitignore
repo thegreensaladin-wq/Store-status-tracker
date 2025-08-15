@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# OS/Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+**/logs/
+*.log
+
+# Credentials / Secrets
+**/service_account.json 
