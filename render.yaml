@@ -1,0 +1,31 @@
+services:
+  - type: cron
+    name: pos-tracker-cron
+    runtime: docker
+    schedule: "*/15 * * * *"
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    # Override CMD to run the one-shot script rather than the loop (Render cron runs the container per schedule)
+    dockerCommand: python monitor_parallel_tabs.py
+    plan: starter
+    envVars:
+      - key: SHEET_ID
+        sync: false
+      - key: INPUT_TABS
+        sync: false
+      - key: GCP_SA_JSON_PATH
+        value: service_account.json
+      - key: HEADLESS
+        value: "true"
+      - key: TIMEZONE
+        value: Asia/Kolkata
+      - key: UC_VERSION_MAIN
+        sync: false
+      - key: PAGELOAD_TIMEOUT
+        value: "45"
+      - key: AFTER_LOAD_WAIT
+        value: "10"
+      - key: BETWEEN_STORES_SECONDS
+        value: "1"
+      - key: MAX_WORKERS
+        value: "5" 

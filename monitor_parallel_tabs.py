@@ -96,6 +96,9 @@ def make_driver():
     opts.add_argument("--disable-blink-features=AutomationControlled")
     opts.add_argument("--disable-notifications")
     opts.add_argument("--start-maximized")
+    # Container-friendly flags
+    opts.add_argument("--no-sandbox")
+    opts.add_argument("--disable-dev-shm-usage")
     if HEADLESS:
         opts.add_argument("--headless=new")
 
